@@ -9,7 +9,8 @@
 
 ### Nội dung cài đặt
 
-1. Gộp code và chạy dữ liệu đã qua generate: Nhi (Minh, Phát)
+1. Review lại dữ liệu đã qua generate có chạy index và generate dữ liệu ko có index: Tú Anh Bùi và Duyên Nguyễn (Sử dụng VPS để generate)
+2. Gộp code và chạy dữ liệu đã qua generate: Nhi (Minh, Phát)
 
 ### Deadline: Chậm nhất là 13/06
 
