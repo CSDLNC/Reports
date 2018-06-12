@@ -9,8 +9,10 @@
 
 ### Nội dung cài đặt
 
-1. Review lại dữ liệu đã qua generate có chạy index và generate dữ liệu ko có index: Tú Anh Bùi và Duyên Nguyễn (Minh) (Sử dụng VPS để generate)
-2. Gộp code và chạy dữ liệu đã qua generate: Nhi (Phát)
+1. Hiệu chỉnh CSDL (Theo góp ý của cô): Minh 
+2. Chạy lại Stored Procedure: Tất cả thành viên.
+3. Review lại dữ liệu đã qua generate có chạy index và generate dữ liệu ko có index: Tú Anh Bùi và Duyên Nguyễn (Minh) (Sử dụng VPS để generate)
+4. Gộp code và chạy dữ liệu đã qua generate: Nhi (Phát)
 
-### Deadline: Chậm nhất là 13/06
+### Deadline: Chậm nhất là 15/06
 
